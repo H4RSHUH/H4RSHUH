@@ -68,20 +68,24 @@
 
 
 ---
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=H4RSHUH&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/><br/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=H4RSHUH&theme=github_dark_dimmed&hide_border=true&show_icons=true" alt="GitHub Stats" />
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=H4RSHUH&theme=github_dark_dimmed&hide_border=false" />
-  <br/><br/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=H4RSHUH&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4RSHUH&theme=github_dark_dimmed&hide_border=false&layout=compact" />
-  <br/><br/>
+  <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H4RSHUH&theme=github-dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4RSHUH&theme=github_dark_dimmed&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/H4RSHUH/H4RSHUH/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
+</div>
